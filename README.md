@@ -18,4 +18,15 @@ Android
 2. https://www.udacity.com/course/ud853
 3. https://www.udacity.com/course/ud849
 
-iOS
+iOS/Objective-C
+
+Quick and dirty tutorials to build stand-alone apps:
+1. http://www.appcoda.com/hello-world-app-using-xcode-5-xib/
+2. http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5/
+
+Indepth tutorial, cover language and UIKit and Design concepts
+3. https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html
+4. http://www.raywenderlich.com/tutorials
+
+How to build a simple app extension for the Today screen.
+5. http://www.appcoda.com/app-extension-programming-today/
