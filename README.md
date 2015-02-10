@@ -1,14 +1,19 @@
 # About
 
-Miami based club that interested in creating applications for mobile devices.
-Android and iOS programming.
+A community for self motivated Developers working on iOS, Android, and Windows phone platforms.
 
 # Rules
 
 1. Must be working on a project or creation.
 2. No goofing off. Time is very limited.
-3. Be courteous.
-4. Constructive criticism.
+3. Be courteous when giving constructive criticism.
+5. Github commits are currently how we track attendance.
+   Commit once during the session on the scope of work that was done in the meet.
+
+# Good Habits
+
+Commit often. Even though it is mandatory to commit once during our meet, we encourage developers to commit often and at least once a day. Keep your project going and don't break the chain! 
+Don't hesitate to ask for help. We reserve the last 15 minutes of our meet to crowd source any problems anyone may be having. Ask questions and answer questions!
 
 # Tutorials
 
