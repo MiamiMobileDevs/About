@@ -47,3 +47,6 @@ Indepth tutorial, cover language and UIKit and Design concepts
 How to build a simple app extension for the Today screen
 
 5. http://www.appcoda.com/app-extension-programming-today/
+
+Need to contact me?
+jpere268@fiu.edu
