@@ -10,6 +10,15 @@ A community for self motivated Developers working on iOS, Android, and Windows p
 5. Github commits are currently how we track attendance.
    Commit once during the session on the scope of work that was done in the meet.
 
+# Workflow
+
+12:15 - 12:30  Demos/HowTo's/Talks/tutorials on general interest subjects
+12:30 - 12:45  Task Assignments/Updating Logs
+12:45 - 01:10  1st Work Session
+01:10 - 01:15  Diversion/Break
+01:15 - 01:40  2nd Work Session
+01:40 - 01:45  Reflection
+
 # Good Habits
 
 Commit often. Even though it is mandatory to commit once during our meet, we encourage developers to commit often and at least once a day. Keep your project going and don't break the chain! 
