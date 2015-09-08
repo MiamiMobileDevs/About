@@ -1,6 +1,6 @@
 # About
 
-A community for self motivated Developers working on iOS, Android, and Windows phone platforms.
+A community for self-motivated developers working on iOS, Android, and Windows mobile platforms.
 
 # Rules
 
