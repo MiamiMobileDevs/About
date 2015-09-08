@@ -15,6 +15,24 @@ A community for self motivated Developers working on iOS, Android, and Windows p
 Commit often. Even though it is mandatory to commit once during our meet, we encourage developers to commit often and at least once a day. Keep your project going and don't break the chain! 
 Don't hesitate to ask for help. We reserve the last 15 minutes of our meet to crowd source any problems anyone may be having. Ask questions and answer questions!
 
+# Expectations
+
+We will not provide a lecture on how to use any tools for developing on mobile platform.
+We will provide basic setup to get you going.
+The take away at the end of the semester is to have a project completed that you can list as an accomplishment.
+Software versioning (Git) and time management will be discussed (SCRUM).
+MVC design architecture will be reviewed.
+No group project will be developed to completion.  This is to learn, not to immediately think about monetization.
+
+
+## Scope of Projects
+
+Projects will start off as stand alone, meaning no user input will be necessary.
+We will progress to projects that involve user input.
+After, we will introduce projects that involve use of a database.
+Those projects can retrieve data from either an existing repository, using their API,  or an existing database stored locally that may require additional development.
+We will make use of the platforms API as much as possible.
+
 # Tutorials
 
 Android
@@ -38,3 +56,24 @@ Indepth tutorial, cover language and UIKit and Design concepts
 How to build a simple app extension for the Today screen
 
 5. http://www.appcoda.com/app-extension-programming-today/
+
+6. https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/CodeExplainedAdventure/AdventureArchitecture/AdventureArchitecture.html#//apple_ref/doc/uid/TP40013140
+
+7. https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556
+
+8. https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215-CH1-SW1
+
+# Additional Notes
+
+Stand alone app that does not require any outside interaction.
+Most simplest form of app.
+
+Next app would have a database.
+
+You would use built in databases.
+Understand basic CRUD operations.
+Object modeling.
+
+Tangential would be obtaining data from a server.
+
+Think of something that already exists and add a new feature.
