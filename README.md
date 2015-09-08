@@ -7,8 +7,8 @@ A community for self-motivated developers working on iOS, Android, and Windows m
 1. Must be working on a project or creation.
 2. No goofing off. Time is very limited.
 3. Be courteous when giving constructive criticism.
-5. Github commits are currently how we track attendance.
-   Commit once during the session on the scope of work that was done in the meet.
+5. Github commits are how we track attendance.
+   Commit the scope of work that was done at the end of the meet.
 
 # Workflow
 
