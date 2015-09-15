@@ -12,12 +12,14 @@ A community for self-motivated developers working on iOS, Android, and Windows m
 
 # Workflow
 
-1. 12:15 - 12:30  Demos/HowTo's/Talks/tutorials on general interest subjects
-2. 12:30 - 12:45  Task Assignments/Updating Logs
-3. 12:45 - 01:10  1st Work Session
-4. 01:10 - 01:15  Diversion/Break
-5. 01:15 - 01:40  2nd Work Session
-6. 01:40 - 01:45  Reflection
+1. 30 Minutes  Demos/HowTo's/Talks/tutorials on general interest subjects
+2. 05 Minutes  Task Assignments/Updating Logs
+3. 25 Minutes  1st Work Session
+4. 05 Minutes  Diversion/Break
+5. 25 Minutes  2nd Work Session
+6. 05 Minutes  Break
+7. 25 Minutes  3rd Work Session
+8. 30 Minutes  Group Updates / Questions
 
 # Good Habits
 
