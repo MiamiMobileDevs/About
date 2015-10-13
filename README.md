@@ -74,6 +74,9 @@ How to build a simple app extension for the Today screen
 
 8. https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215-CH1-SW1
 
+9. http://www.appcoda.com/sqlite-database-ios-app-tutorial/ NEW APP TUTORIAL DATABASE
+
+
 # Additional Notes
 
 Stand alone app that does not require any outside interaction.
