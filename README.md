@@ -23,7 +23,7 @@ A community for self-motivated developers working on iOS, Android, and Windows m
 
 # Good Habits
 
-Commit often. Even though it is mandatory to commit once during our meet, we encourage developers to commit often and at least once a day. Keep your project going and don't break the chain! 
+Commit often. Even though it is mandatory to commit once during our meet, we encourage developers to commit often and at least once a day. Keep your project going and don't break the chain!
 Don't hesitate to ask for help. We reserve the last 15 minutes of our meet to crowd source any problems anyone may be having. Ask questions and answer questions!
 
 # Expectations
@@ -91,3 +91,5 @@ Object modeling.
 Tangential would be obtaining data from a server.
 
 Think of something that already exists and add a new feature.
+
+New features will be added shortly.
