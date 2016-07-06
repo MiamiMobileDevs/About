@@ -92,4 +92,4 @@ Tangential would be obtaining data from a server.
 
 Think of something that already exists and add a new feature.
 
-New features will be added shortly.
+A lot of the about will be updated, soon.
